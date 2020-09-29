@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\bd084facc1508fdce96594de3825f859\recyclerview-v7-25.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c4fc88e6503ccfe2b1d4f01413484bd2\appcompat-v7-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.17] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ad1f35dce79e5cca0969868318166087\android-gif-drawable-1.1.17\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cabf7c029234ee2a91ed222a5a5280cb\support-v4-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a94a239e73a4f2016dc6c5d4f1fde776\support-fragment-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\030837b2fc81bdbd97b8cee7e345f181\support-core-ui-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1991250e7c7f8313aa709c02c157cd65\animated-vector-drawable-25.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dad2a644b889a4cc71785541fe578eed\support-vector-drawable-25.1.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0843626d405cc23b428ae18f8b73f457\support-media-compat-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c28727207757c8f494efffa00a3564ee\support-core-utils-25.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cb7b67895eed51c5721c56b2bfff0c1d\support-compat-25.1.1\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:11:22-77
+application
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:14:5-35:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c4fc88e6503ccfe2b1d4f01413484bd2\appcompat-v7-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c4fc88e6503ccfe2b1d4f01413484bd2\appcompat-v7-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cabf7c029234ee2a91ed222a5a5280cb\support-v4-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cabf7c029234ee2a91ed222a5a5280cb\support-v4-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a94a239e73a4f2016dc6c5d4f1fde776\support-fragment-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a94a239e73a4f2016dc6c5d4f1fde776\support-fragment-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\030837b2fc81bdbd97b8cee7e345f181\support-core-ui-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\030837b2fc81bdbd97b8cee7e345f181\support-core-ui-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1991250e7c7f8313aa709c02c157cd65\animated-vector-drawable-25.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1991250e7c7f8313aa709c02c157cd65\animated-vector-drawable-25.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dad2a644b889a4cc71785541fe578eed\support-vector-drawable-25.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dad2a644b889a4cc71785541fe578eed\support-vector-drawable-25.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0843626d405cc23b428ae18f8b73f457\support-media-compat-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0843626d405cc23b428ae18f8b73f457\support-media-compat-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c28727207757c8f494efffa00a3564ee\support-core-utils-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c28727207757c8f494efffa00a3564ee\support-core-utils-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cb7b67895eed51c5721c56b2bfff0c1d\support-compat-25.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cb7b67895eed51c5721c56b2bfff0c1d\support-compat-25.1.1\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:17:9-34
+	android:icon
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:16:9-38
+	android:allowBackup
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:19:9-59
+activity#com.lb377463323.GoGofruit.Main2Activity
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:20:9-76
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:20:19-73
+activity#com.lb377463323.GoGofruit.MainActivity
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:21:9-75
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:21:19-72
+activity#com.lb377463323.GoGofruit.show
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:22:9-67
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:22:19-64
+activity#com.lb377463323.GoGofruit.history
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:23:19-67
+activity#com.lb377463323.GoGofruit.Loading
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:24:9-70
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:24:19-67
+activity#com.lb377463323.GoGofruit.Menu
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:screenOrientation
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:28:13-51
+	android:configChanges
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:27:13-74
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:26:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\bd084facc1508fdce96594de3825f859\recyclerview-v7-25.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\bd084facc1508fdce96594de3825f859\recyclerview-v7-25.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c4fc88e6503ccfe2b1d4f01413484bd2\appcompat-v7-25.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c4fc88e6503ccfe2b1d4f01413484bd2\appcompat-v7-25.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.17] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ad1f35dce79e5cca0969868318166087\android-gif-drawable-1.1.17\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.17] C:\Users\User\.gradle\caches\transforms-2\files-2.1\ad1f35dce79e5cca0969868318166087\android-gif-drawable-1.1.17\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cabf7c029234ee2a91ed222a5a5280cb\support-v4-25.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cabf7c029234ee2a91ed222a5a5280cb\support-v4-25.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a94a239e73a4f2016dc6c5d4f1fde776\support-fragment-25.1.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\a94a239e73a4f2016dc6c5d4f1fde776\support-fragment-25.1.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\030837b2fc81bdbd97b8cee7e345f181\support-core-ui-25.1.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\030837b2fc81bdbd97b8cee7e345f181\support-core-ui-25.1.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1991250e7c7f8313aa709c02c157cd65\animated-vector-drawable-25.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\1991250e7c7f8313aa709c02c157cd65\animated-vector-drawable-25.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dad2a644b889a4cc71785541fe578eed\support-vector-drawable-25.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dad2a644b889a4cc71785541fe578eed\support-vector-drawable-25.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0843626d405cc23b428ae18f8b73f457\support-media-compat-25.1.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\0843626d405cc23b428ae18f8b73f457\support-media-compat-25.1.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c28727207757c8f494efffa00a3564ee\support-core-utils-25.1.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c28727207757c8f494efffa00a3564ee\support-core-utils-25.1.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cb7b67895eed51c5721c56b2bfff0c1d\support-compat-25.1.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\cb7b67895eed51c5721c56b2bfff0c1d\support-compat-25.1.1\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] C:\Users\User\.gradle\caches\transforms-2\files-2.1\c4fc88e6503ccfe2b1d4f01413484bd2\appcompat-v7-25.1.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-2\files-2.1\88180c2d9df321ed403965b1f5904015\constraint-layout-1.1.3\AndroidManifest.xml:7:9-38
+	android:minSdkVersion
+		INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+		ADDED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\cctest\GraphicsTestBed-master\Camera\CameraV1\app\src\main\AndroidManifest.xml
